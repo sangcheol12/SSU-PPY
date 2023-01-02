@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_in_search_open_chatting.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_join_member.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_search_open_chatting.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_select_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_show_all_opposite_sex_profile.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_show_matched_meeting.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_show_my_open_chatting.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/activity_show_requested_meeting.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/dialog_input_my_profile.xml" value="0.2484375" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/dialog_meeting_registration_profile.xml" value="0.1" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/dialog_meeting_show_sex_profile.xml" value="0.2484375" />
+        <entry key="..\:/Users/82103/AndroidStudioProjects/SSU-PPY/app/src/main/res/layout/toolbar.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/drawable/ic_round_dehaze_24.xml" value="0.2435" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_join_member.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_meet_chatting_room.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_modify_member_info.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_open_chat_main.xml" value="0.1" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_open_chatting_room.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_search_open_chatting.xml" value="0.2390625" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_select_menu.xml" value="0.2" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_show_add_profile.xml" value="0.1" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_show_all_opposite_sex_profile.xml" value="0.14963503649635038" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_show_matched_meeting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_show_my_open_chatting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/activity_show_requested_meeting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/header_layout.xml" value="0.264" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/in_search_meeting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/my_chat.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/other_chat.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/other_meet_chat.xml" value="0.2" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/other_op_chat.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/profile_show_dialog.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/layout/room_info_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/menu/basebar.xml" value="0.2" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/menu/drawer_menu.xml" value="0.1125" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/eric2/SSU-PPY/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2985" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/radius.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/drawable/white_line.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_chatting_room.xml" value="0.1875" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_in_search_open_chatting.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_join_member.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_meet_chatting_room.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_open_chat_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_search_open_chatting.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_select_menu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_show_add_profile.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_show_all_opposite_sex_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_show_matched_meeting.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_show_my_open_chatting.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/activity_show_requested_meeting.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/in_search_open_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/my_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/opchat_create_dialog.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/other_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/profile_add_dialog.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/profile_show_dialog.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/search_opchat_dialog.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/layout/toolbar_blue.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/menu/basebar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSU-PPY/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/SSUPPY/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/Desktop/SSU_PPY/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
